@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: c35597571d074c941a8e0fd76c3f962a
+timeCreated: 1460390151
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: red_flag_0
+    21300002: red_flag_1
+    21300004: red_flag_2
+    21300006: red_flag_3
+    21300008: red_flag_4
+    21300010: red_flag_5
+    21300012: red_flag_6
+    21300014: red_flag_7
+    21300016: red_flag_8
+    21300018: red_flag_9
+    21300020: red_flag_10
+    21300022: red_flag_11
+    21300024: red_flag_12
+    21300026: red_flag_13
+    21300028: red_flag_14
+    21300030: red_flag_15
+    21300032: red_flag_16
+    21300034: red_flag_17
+    21300036: red_flag_18
+    21300038: red_flag_19
+    21300040: red_flag_20
+    21300042: red_flag_21
+    21300044: red_flag_22
+    21300046: red_flag_23
+    21300048: red_flag_24
+    21300050: red_flag_25
+    21300052: red_flag_26
+    21300054: red_flag_27
+    21300056: red_flag_28
+    21300058: red_flag_29
+    21300060: red_flag_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: red_flag_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 28}
+        - {x: -18.5, y: 19}
+        - {x: -16.5, y: 4}
+        - {x: -14.5, y: 1}
+        - {x: -10.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 8}
+        - {x: 3.5, y: 29}
+        - {x: 1.5, y: 31}
+    - name: red_flag_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 160
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 28}
+        - {x: -18.5, y: 13}
+        - {x: -17.5, y: 4}
+        - {x: -10.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 13}
+        - {x: 3.5, y: 31}
+    - name: red_flag_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 160
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 31}
+        - {x: -18.5, y: 28}
+        - {x: -18.5, y: 15}
+        - {x: -16.5, y: 4}
+        - {x: -6.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 2}
+        - {x: 3.5, y: 30}
+        - {x: 1.5, y: 31}
+    - name: red_flag_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 160
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 27}
+        - {x: -18.5, y: 24}
+        - {x: -15.5, y: 4}
+        - {x: -13.5, y: 1}
+        - {x: -10.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 8}
+        - {x: 3.5, y: 29}
+        - {x: 1.5, y: 31}
+    - name: red_flag_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 160
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 26}
+        - {x: -18.5, y: 25}
+        - {x: -17.5, y: 5}
+        - {x: -9.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 13}
+        - {x: 3.5, y: 31}
+    - name: red_flag_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 160
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 26}
+        - {x: -18.5, y: 25}
+        - {x: -17.5, y: 4}
+        - {x: -10.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 13}
+        - {x: 3.5, y: 31}
+    - name: red_flag_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 28}
+        - {x: -18.5, y: 19}
+        - {x: -16.5, y: 4}
+        - {x: -14.5, y: 1}
+        - {x: -10.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 8}
+        - {x: 3.5, y: 29}
+        - {x: 1.5, y: 31}
+    - name: red_flag_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 128
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 18}
+        - {x: -14.5, y: 1}
+        - {x: -13.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 22}
+        - {x: 3.5, y: 31}
+        - {x: -6.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 28}
+    - name: red_flag_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 128
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 31}
+        - {x: -18.5, y: 28}
+        - {x: -18.5, y: 14}
+        - {x: -16.5, y: 3}
+        - {x: -9.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 14}
+        - {x: 3.5, y: 31}
+    - name: red_flag_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 128
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 28}
+        - {x: -18.5, y: 17}
+        - {x: -13.5, y: 2}
+        - {x: -9.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 13}
+        - {x: 3.5, y: 31}
+    - name: red_flag_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 128
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 26}
+        - {x: -18.5, y: 5}
+        - {x: -11.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 13}
+        - {x: 3.5, y: 31}
+    - name: red_flag_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 128
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 26}
+        - {x: -18.5, y: 2}
+        - {x: -15.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 13}
+        - {x: 3.5, y: 31}
+    - name: red_flag_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 28}
+        - {x: -18.5, y: 9}
+        - {x: -7.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 13}
+        - {x: 3.5, y: 31}
+    - name: red_flag_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 96
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 26}
+        - {x: -18.5, y: 25}
+        - {x: -16.5, y: 22}
+        - {x: -14.5, y: 13}
+        - {x: -5.5, y: 8}
+        - {x: -2.5, y: 14}
+        - {x: -2.5, y: 16}
+        - {x: -2.5, y: 5}
+        - {x: -5.5, y: 2}
+        - {x: -5.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 13}
+        - {x: 3.5, y: 31}
+    - name: red_flag_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 96
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 28}
+        - {x: -18.5, y: 12}
+        - {x: -11.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 13}
+        - {x: 3.5, y: 31}
+    - name: red_flag_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 96
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 31}
+        - {x: -18.5, y: 11}
+        - {x: -9.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 13}
+        - {x: 3.5, y: 31}
+      - - {x: -10.5, y: 20}
+        - {x: -10.5, y: 13}
+        - {x: -8.5, y: 12}
+        - {x: -6.5, y: 12}
+        - {x: -4.5, y: 15}
+        - {x: -4.5, y: 17}
+        - {x: -7.5, y: 20}
+    - name: red_flag_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 96
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 31}
+        - {x: -18.5, y: 29}
+        - {x: -18.5, y: 22}
+        - {x: -6.5, y: 13}
+        - {x: -2.5, y: 15}
+        - {x: -2.5, y: 18}
+        - {x: -2.5, y: 5}
+        - {x: -5.5, y: 2}
+        - {x: -5.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 14}
+        - {x: 3.5, y: 31}
+    - name: red_flag_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 96
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 26}
+        - {x: -18.5, y: 25}
+        - {x: -16.5, y: 21}
+        - {x: -5.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 13}
+        - {x: 3.5, y: 31}
+    - name: red_flag_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 27}
+        - {x: -18.5, y: 25}
+        - {x: -16.5, y: 20}
+        - {x: -5.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 13}
+        - {x: 3.5, y: 31}
+    - name: red_flag_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 64
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 31}
+        - {x: -18.5, y: 13}
+        - {x: -13.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 13}
+        - {x: 3.5, y: 31}
+    - name: red_flag_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 64
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 3}
+        - {x: -12.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 19}
+        - {x: 3.5, y: 31}
+        - {x: -6.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 26}
+    - name: red_flag_21
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 64
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 26}
+        - {x: -18.5, y: 25}
+        - {x: -7.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 13}
+        - {x: 3.5, y: 31}
+    - name: red_flag_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 64
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 31}
+        - {x: -18.5, y: 30}
+        - {x: -18.5, y: 17}
+        - {x: -9.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 13}
+        - {x: 3.5, y: 31}
+    - name: red_flag_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 64
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 26}
+        - {x: -18.5, y: 25}
+        - {x: -16.5, y: 13}
+        - {x: -5.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 13}
+        - {x: 3.5, y: 31}
+    - name: red_flag_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 28}
+        - {x: -18.5, y: 23}
+        - {x: -14.5, y: 12}
+        - {x: -5.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 13}
+        - {x: 3.5, y: 31}
+    - name: red_flag_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 32
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 31}
+        - {x: -18.5, y: 28}
+        - {x: -18.5, y: 16}
+        - {x: -16.5, y: 7}
+        - {x: -8.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 2}
+        - {x: 3.5, y: 30}
+        - {x: 1.5, y: 31}
+    - name: red_flag_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 32
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 31}
+        - {x: -18.5, y: 28}
+        - {x: -18.5, y: 15}
+        - {x: -16.5, y: 4}
+        - {x: -9.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 14}
+        - {x: 3.5, y: 31}
+    - name: red_flag_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 32
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 27}
+        - {x: -18.5, y: 24}
+        - {x: -15.5, y: 4}
+        - {x: -13.5, y: 1}
+        - {x: -10.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 8}
+        - {x: 3.5, y: 29}
+        - {x: 1.5, y: 31}
+    - name: red_flag_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 32
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 25}
+        - {x: -16.5, y: 4}
+        - {x: -12.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 22}
+        - {x: 3.5, y: 31}
+        - {x: -6.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 26}
+    - name: red_flag_29
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 32
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 1}
+        - {x: -15.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 11}
+        - {x: 3.5, y: 31}
+        - {x: -6.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 26}
+    - name: red_flag_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 31}
+        - {x: -15.5, y: 29}
+        - {x: -18.5, y: 26}
+        - {x: -18.5, y: 25}
+        - {x: -16.5, y: 21}
+        - {x: -5.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 13}
+        - {x: 3.5, y: 31}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

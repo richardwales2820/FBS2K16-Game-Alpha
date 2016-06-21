@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &158244
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 449612}
+  - 114: {fileID: 11492594}
+  m_Layer: 0
+  m_Name: ObjectFactory
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &449612
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 158244}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.007661935, y: 1.243747, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11492594
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 158244}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f06901865fd164d44bf960671fed0b04, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  teamPrefab: {fileID: 108484, guid: e49d490fe5467694ea410450efea6f49, type: 2}
+  playerPrefab: {fileID: 139730, guid: f878dc7896becfd41831bf5fb8033e96, type: 2}
+  levelupPrefab: {fileID: 1000011740123828, guid: e159ea8715e55457a90a403b7c6ce324,
+    type: 2}
+  worldCanvas: {fileID: 0}
+  screenCanvas: {fileID: 0}
+  redFighterPrefab: {fileID: 145382, guid: dff36fa07dbde1a4694c7fec0212949c, type: 2}
+  redArcherPrefab: {fileID: 121098, guid: d1cf8ef99456c9140a0e3005b67f5101, type: 2}
+  redSorcererPrefab: {fileID: 109390, guid: 31d18412dca645d4999422af8f4cfa33, type: 2}
+  blueFighterPrefab: {fileID: 149964, guid: e03fada4cccb2ad4883497b51fd6d979, type: 2}
+  blueArcherPrefab: {fileID: 180942, guid: 6f2e207c1ccf6e6479da77c309406e9d, type: 2}
+  blueSorcererPrefab: {fileID: 189324, guid: af8d6216ca33a8443b1d7f3e5b75f69e, type: 2}
+  nameplatePrefab: {fileID: 109012, guid: 56342691b346a654fae6d266c9949b4d, type: 2}
+  healthbarPrefab: {fileID: 129358, guid: 1d0de69b9acc08c4f88756ad6eb1b62c, type: 2}
+  unitHealthbarPrefab: {fileID: 1000011115079810, guid: d903088836d7d4c39b4eaa1e6d668c35,
+    type: 2}
+  redCapBarPrefab: {fileID: 1000011890508588, guid: 65217dd2c525747fc888d259aefbcc2d,
+    type: 2}
+  blueCapBarPrefab: {fileID: 1000011808318076, guid: e1906827813dc48ae9ca560dda496c5b,
+    type: 2}
+  flagCapsPrefab: {fileID: 1000013730556706, guid: 54acc86baef09af409cab03e07f7b2e4,
+    type: 2}
+  pathPrefab: {fileID: 152952, guid: 4e8aa76a8e764db4ebbc9aa6135f7eec, type: 2}
+  topLeft: {fileID: 0}
+  bottomRight: {fileID: 0}
+  redArrowPrefab: {fileID: 119758, guid: 3effc088cfb761842a841113099c46e9, type: 2}
+  blueArrowPrefab: {fileID: 123664, guid: 51e6457f71ad1cd418a4239f448dc799, type: 2}
+  redFireballPrefab: {fileID: 111978, guid: 7832194a387fc8546a1cb4a0c8ed7997, type: 2}
+  blueFireballPrefab: {fileID: 124078, guid: 4c1f33ba66db2fd4e81e3eec98c0a27b, type: 2}
+  flagPrefab: {fileID: 125756, guid: 03f660af5d8a0e7449efe833219f71e5, type: 2}
+  capturePointPrefab: {fileID: 169612, guid: b7872855935fe5444b4eea38d97d8ffd, type: 2}
+  wordPrefab: {fileID: 154484, guid: 0bd72708c15528e44a3d281343ee227e, type: 2}
+  letterPrefab: {fileID: 120296, guid: 5bf1d241857e5b14aae913b1c489b069, type: 2}
+  grassTile: {fileID: 118538, guid: 5408a9419963d9d42b7eda7d4416994d, type: 2}
+  pathTile: {fileID: 140458, guid: b4ba39f977d37574bb9f75b03a81c678, type: 2}
+  pathBottomLeftTile: {fileID: 115794, guid: fee5bac0cb420d44fadfd22c09a52899, type: 2}
+  pathBottomRightTile: {fileID: 117852, guid: d18efdb1218525b4eb4daadd19e71c44, type: 2}
+  pathHorizontalBottomTile: {fileID: 141942, guid: 55340704d3454ee46931569f0f0b9c07,
+    type: 2}
+  pathHorizontalTopTile: {fileID: 166472, guid: 85576d99e3d44df4a84938ff83adf899,
+    type: 2}
+  pathInnerBottomLeftTile: {fileID: 136946, guid: 8ea5c04747b5a14469eccc56a4b8f14b,
+    type: 2}
+  pathInnerBottomRightTile: {fileID: 161678, guid: 0808aff6009040644a76f39811c762ce,
+    type: 2}
+  pathInnerTopLeftTile: {fileID: 192252, guid: 3587af6f2cf56da458e262c49c472a1e, type: 2}
+  pathInnerTopRightTile: {fileID: 159766, guid: 5a16640e3862c0a44ab37e7aa1099745,
+    type: 2}
+  pathTopLeftTile: {fileID: 153326, guid: de60e4c13f5a2bd4182e73a94af3a3e0, type: 2}
+  pathTopRightTile: {fileID: 166488, guid: d5b75d2f58f71464596bf5fff11a5df4, type: 2}
+  pathVerticalRightTile: {fileID: 188786, guid: 3aca91bbe86bbdd42a8ad893980391cb,
+    type: 2}
+  pathVerticalLeftTile: {fileID: 144868, guid: f0725a87fffb24f4d8fc421129409063, type: 2}
+  pathSlash: {fileID: 131216, guid: 273633b1e5b03dd45a1bd56aa8865fa8, type: 2}
+  pathBackslash: {fileID: 192376, guid: f66ddd6335d8a9748aefde313214f9bc, type: 2}
+  rock1: {fileID: 197272, guid: d5d9d72da7439a04fba0746cbc5488af, type: 2}
+  rock3: {fileID: 104208, guid: d5308b78509029d4ead2074635972a0e, type: 2}
+  rock4: {fileID: 109624, guid: ae6913c0b653de443b9aca50705a4777, type: 2}
+  evergreen: {fileID: 102752, guid: 3431dfe4ce4f56b46aa397a8d502344e, type: 2}
+  birch: {fileID: 169838, guid: 7cfa98f9d6501474da706501bb8a98bf, type: 2}
+  weed1: {fileID: 175578, guid: 2a80b2e5a9a009f478c6d498af32923f, type: 2}
+  weed2: {fileID: 173118, guid: 676ce9e729b74e84991f9bd885d04a74, type: 2}
+  shootSound: {fileID: 8300000, guid: 686679c5d22c54b218f1e4d54ac97597, type: 3}
+  hitSound: {fileID: 8300000, guid: 39d903224f5c45741b3715e0783501c3, type: 3}
+  powerUpSound: {fileID: 8300000, guid: e1949fa0f9f73419eb7926fa978b7ba9, type: 3}
+  flagCapSound: {fileID: 8300000, guid: 0762a914e7cac48bf92fda7f1d0a6289, type: 3}
+  swordHitSound: {fileID: 8300000, guid: de63a90dd579a4d51bde2499d2a7957c, type: 3}
+  burnSound: {fileID: 8300000, guid: ed768f162172c4a9f99a6410f97b6ac8, type: 3}
+  deathSound: {fileID: 8300000, guid: 117567121e0054d22ac1d7d3e469dd83, type: 3}
+  archerAttack: {fileID: 8300000, guid: 100d43909aab08f44a84940ff9285a03, type: 3}
+  levelupSound: {fileID: 8300000, guid: 44c17c14b0981cd409533318e36aaf52, type: 3}
+  huhSound: {fileID: 8300000, guid: d59bd309b90ffa94aa2beb5721a8ac45, type: 3}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 158244}
+  m_IsPrefabParent: 1

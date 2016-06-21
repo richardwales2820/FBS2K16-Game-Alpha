@@ -1,0 +1,1538 @@
+fileFormatVersion: 2
+guid: 566a8dc025afcae4a8e85486ef10749c
+timeCreated: 1459993011
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dude_sprites_0
+    21300002: dude_sprites_1
+    21300004: dude_sprites_2
+    21300006: dude_sprites_3
+    21300008: dude_sprites_4
+    21300010: dude_sprites_5
+    21300012: dude_sprites_6
+    21300014: dude_sprites_7
+    21300016: dude_sprites_8
+    21300018: dude_sprites_9
+    21300020: dude_sprites_10
+    21300022: dude_sprites_11
+    21300024: dude_sprites_12
+    21300026: dude_sprites_13
+    21300028: dude_sprites_14
+    21300030: dude_sprites_15
+    21300032: dude_sprites_16
+    21300034: dude_sprites_17
+    21300036: dude_sprites_18
+    21300038: dude_sprites_19
+    21300040: dude_sprites_20
+    21300042: dude_sprites_21
+    21300044: dude_sprites_22
+    21300046: dude_sprites_23
+    21300048: dude_sprites_24
+    21300050: dude_sprites_25
+    21300052: dude_sprites_26
+    21300054: dude_sprites_27
+    21300056: dude_sprites_28
+    21300058: dude_sprites_29
+    21300060: dude_sprites_30
+    21300062: dude_sprites_31
+    21300064: dude_sprites_32
+    21300066: dude_sprites_33
+    21300068: dude_sprites_34
+    21300070: dude_sprites_35
+    21300072: dude_sprites_36
+    21300074: dude_sprites_37
+    21300076: dude_sprites_38
+    21300078: dude_sprites_39
+    21300080: dude_sprites_40
+    21300082: dude_sprites_41
+    21300084: dude_sprites_42
+    21300086: dude_sprites_43
+    21300088: dude_sprites_44
+    21300090: dude_sprites_45
+    21300092: dude_sprites_46
+    21300094: dude_sprites_47
+    21300096: dude_sprites_48
+    21300098: dude_sprites_49
+    21300100: dude_sprites_50
+    21300102: dude_sprites_51
+    21300104: dude_sprites_52
+    21300106: dude_sprites_53
+    21300108: dude_sprites_54
+    21300110: dude_sprites_55
+    21300112: dude_sprites_56
+    21300114: dude_sprites_57
+    21300116: dude_sprites_58
+    21300118: dude_sprites_59
+    21300120: dude_sprites_60
+    21300122: dude_sprites_61
+    21300124: dude_sprites_62
+    21300126: dude_sprites_63
+    21300128: dude_sprites_64
+    21300130: dude_sprites_65
+    21300132: dude_sprites_66
+    21300134: dude_sprites_67
+    21300136: dude_sprites_68
+    21300138: dude_sprites_69
+    21300140: dude_sprites_70
+    21300142: dude_sprites_71
+    21300144: dude_sprites_72
+    21300146: dude_sprites_73
+    21300148: dude_sprites_74
+    21300150: dude_sprites_75
+    21300152: dude_sprites_76
+    21300154: dude_sprites_77
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dude_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 17}
+        - {x: -8.5, y: 17}
+        - {x: -8.5, y: 1}
+        - {x: -7.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 8.5, y: 2}
+        - {x: 9.5, y: 7}
+        - {x: 9.5, y: 16}
+    - name: dude_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 352
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 18}
+        - {x: -8.5, y: 18}
+        - {x: -8.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 9.5, y: 2}
+        - {x: 9.5, y: 9}
+        - {x: 8.5, y: 15}
+    - name: dude_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 352
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 17}
+        - {x: 2.5, y: 18}
+        - {x: -8.5, y: 18}
+        - {x: -8.5, y: 1}
+        - {x: -7.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 8.5, y: 3}
+        - {x: 9.5, y: 8}
+        - {x: 8.5, y: 15}
+    - name: dude_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 352
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 18}
+        - {x: -9.5, y: 6}
+        - {x: -9.5, y: 2}
+        - {x: -7.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 10.5, y: 9}
+        - {x: 9.5, y: 14}
+        - {x: 7.5, y: 16}
+        - {x: -2.5, y: 18}
+    - name: dude_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 352
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 18}
+        - {x: -7.5, y: 18}
+        - {x: -8.5, y: 16}
+        - {x: -8.5, y: 1}
+        - {x: -7.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 8.5, y: 4}
+        - {x: 9.5, y: 6}
+        - {x: 9.5, y: 13}
+    - name: dude_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 352
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 18}
+        - {x: -7.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 8.5, y: 4}
+        - {x: 8.5, y: 13}
+        - {x: 6.5, y: 18}
+    - name: dude_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 352
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 18}
+        - {x: -8.5, y: 16}
+        - {x: -8.5, y: 3}
+        - {x: -5.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 9.5, y: 2}
+        - {x: 9.5, y: 13}
+        - {x: 7.5, y: 18}
+    - name: dude_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 352
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 17}
+        - {x: -9.5, y: 0}
+        - {x: 7.5, y: 0}
+        - {x: 10.5, y: 5}
+        - {x: 10.5, y: 11}
+        - {x: 4.5, y: 17}
+    - name: dude_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 17}
+        - {x: -5.5, y: 17}
+        - {x: -9.5, y: 9}
+        - {x: -9.5, y: 3}
+        - {x: -8.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 14}
+        - {x: 4.5, y: 16}
+    - name: dude_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 320
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 17}
+        - {x: -8.5, y: 9}
+        - {x: -8.5, y: 3}
+        - {x: -7.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 23.5, y: 3}
+        - {x: 23.5, y: 13}
+        - {x: 19.5, y: 17}
+    - name: dude_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 320
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 17}
+        - {x: -7.5, y: 11}
+        - {x: -7.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 12.5, y: 1}
+        - {x: 12.5, y: 16}
+        - {x: 5.5, y: 17}
+    - name: dude_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 320
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 15}
+        - {x: 4.5, y: 17}
+        - {x: -5.5, y: 17}
+        - {x: -6.5, y: 14}
+        - {x: -7.5, y: 10}
+        - {x: -7.5, y: 1}
+        - {x: -6.5, y: 0}
+        - {x: 7.5, y: 0}
+        - {x: 9.5, y: 2}
+        - {x: 10.5, y: 7}
+    - name: dude_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 320
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 15}
+        - {x: 3.5, y: 17}
+        - {x: -6.5, y: 17}
+        - {x: -7.5, y: 14}
+        - {x: -8.5, y: 10}
+        - {x: -8.5, y: 1}
+        - {x: -7.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 8.5, y: 2}
+        - {x: 9.5, y: 7}
+    - name: dude_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 320
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 16}
+        - {x: -8.5, y: 12}
+        - {x: -8.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 8.5, y: 11}
+        - {x: 2.5, y: 16}
+    - name: dude_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 320
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 17}
+        - {x: -6.5, y: 17}
+        - {x: -8.5, y: 14}
+        - {x: -8.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 8.5, y: 3}
+        - {x: 8.5, y: 12}
+    - name: dude_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 320
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 16}
+        - {x: -4.5, y: 16}
+        - {x: -8.5, y: 13}
+        - {x: -8.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 8.5, y: 3}
+        - {x: 8.5, y: 12}
+    - name: dude_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 16}
+        - {x: -8.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 9.5, y: 14}
+        - {x: 5.5, y: 16}
+    - name: dude_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 288
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 17}
+        - {x: -8.5, y: 12}
+        - {x: -8.5, y: 0}
+        - {x: 7.5, y: 0}
+        - {x: 8.5, y: 1}
+        - {x: 8.5, y: 12}
+        - {x: 2.5, y: 17}
+    - name: dude_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 288
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 16}
+        - {x: -8.5, y: 13}
+        - {x: -8.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 7.5, y: 2}
+        - {x: 7.5, y: 15}
+        - {x: 4.5, y: 16}
+    - name: dude_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 288
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 12}
+        - {x: 2.5, y: 17}
+        - {x: -6.5, y: 17}
+        - {x: -8.5, y: 12}
+        - {x: -8.5, y: 1}
+        - {x: -7.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 8.5, y: 3}
+    - name: dude_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 288
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 16}
+        - {x: -7.5, y: 16}
+        - {x: -9.5, y: 15}
+        - {x: -9.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 9.5, y: 7}
+        - {x: 7.5, y: 12}
+    - name: dude_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 288
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 16}
+        - {x: -9.5, y: 16}
+        - {x: -9.5, y: 0}
+        - {x: 7.5, y: 0}
+        - {x: 7.5, y: 6}
+        - {x: 4.5, y: 14}
+    - name: dude_sprites_22
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 288
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 16}
+        - {x: -8.5, y: 16}
+        - {x: -8.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 8.5, y: 3}
+        - {x: 8.5, y: 12}
+    - name: dude_sprites_23
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 288
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 16}
+        - {x: -8.5, y: 15}
+        - {x: -8.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 8.5, y: 1}
+        - {x: 8.5, y: 11}
+        - {x: 5.5, y: 16}
+    - name: dude_sprites_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 16}
+        - {x: -7.5, y: 16}
+        - {x: -8.5, y: 14}
+        - {x: -8.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 9.5, y: 13}
+    - name: dude_sprites_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 256
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 16}
+        - {x: -4.5, y: 16}
+        - {x: -8.5, y: 13}
+        - {x: -8.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 9.5, y: 3}
+        - {x: 9.5, y: 13}
+    - name: dude_sprites_26
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 256
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 17}
+        - {x: -8.5, y: 7}
+        - {x: -8.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 9.5, y: 4}
+        - {x: 9.5, y: 14}
+        - {x: 8.5, y: 17}
+    - name: dude_sprites_27
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 256
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 18}
+        - {x: -7.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 9.5, y: 6}
+        - {x: 9.5, y: 16}
+        - {x: 7.5, y: 18}
+    - name: dude_sprites_28
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 256
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 18}
+        - {x: -8.5, y: 14}
+        - {x: -8.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 9.5, y: 7}
+        - {x: 9.5, y: 16}
+        - {x: 8.5, y: 18}
+    - name: dude_sprites_29
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 256
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 18}
+        - {x: -9.5, y: 9}
+        - {x: -9.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 9.5, y: 4}
+        - {x: 9.5, y: 15}
+        - {x: 7.5, y: 18}
+    - name: dude_sprites_30
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 256
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 18}
+        - {x: -8.5, y: 17}
+        - {x: -8.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 9.5, y: 4}
+        - {x: 9.5, y: 18}
+    - name: dude_sprites_31
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 256
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 18}
+        - {x: -6.5, y: 16}
+        - {x: -6.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 7.5, y: 5}
+        - {x: 7.5, y: 14}
+        - {x: 5.5, y: 18}
+    - name: dude_sprites_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 18}
+        - {x: -7.5, y: 17}
+        - {x: -7.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 9.5, y: 5}
+        - {x: 9.5, y: 16}
+        - {x: 8.5, y: 18}
+    - name: dude_sprites_33
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 224
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 17}
+        - {x: -8.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 14}
+        - {x: 3.5, y: 17}
+    - name: dude_sprites_34
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 224
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 17}
+        - {x: -8.5, y: 16}
+        - {x: -8.5, y: 0}
+        - {x: 4.5, y: 0}
+        - {x: 4.5, y: 15}
+        - {x: -0.5, y: 17}
+    - name: dude_sprites_35
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 224
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 19}
+        - {x: -8.5, y: 12}
+        - {x: -8.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 21.5, y: 2}
+        - {x: 21.5, y: 14}
+        - {x: 20.5, y: 19}
+    - name: dude_sprites_36
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 224
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 19}
+        - {x: -7.5, y: 3}
+        - {x: -7.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 14.5, y: 14}
+        - {x: 14.5, y: 19}
+    - name: dude_sprites_37
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 224
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 18}
+        - {x: -7.5, y: 16}
+        - {x: -7.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 9.5, y: 11}
+        - {x: 9.5, y: 17}
+        - {x: 8.5, y: 18}
+    - name: dude_sprites_38
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 224
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 17}
+        - {x: -7.5, y: 16}
+        - {x: -7.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 9.5, y: 6}
+        - {x: 9.5, y: 15}
+        - {x: 8.5, y: 17}
+    - name: dude_sprites_39
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 224
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 17}
+        - {x: -8.5, y: 1}
+        - {x: -7.5, y: 0}
+        - {x: 7.5, y: 0}
+        - {x: 9.5, y: 1}
+        - {x: 9.5, y: 17}
+    - name: dude_sprites_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 18}
+        - {x: -8.5, y: 17}
+        - {x: -8.5, y: 0}
+        - {x: 7.5, y: 0}
+        - {x: 9.5, y: 1}
+        - {x: 9.5, y: 11}
+        - {x: 8.5, y: 18}
+    - name: dude_sprites_41
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 192
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 18}
+        - {x: -8.5, y: 1}
+        - {x: -7.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 9.5, y: 2}
+        - {x: 9.5, y: 18}
+    - name: dude_sprites_42
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 192
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 18}
+        - {x: -6.5, y: 18}
+        - {x: -9.5, y: 7}
+        - {x: -9.5, y: 2}
+        - {x: -7.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 10.5, y: 16}
+        - {x: 5.5, y: 17}
+    - name: dude_sprites_43
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 192
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 18}
+        - {x: -8.5, y: 16}
+        - {x: -8.5, y: 4}
+        - {x: -6.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 9.5, y: 18}
+    - name: dude_sprites_44
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 192
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 18}
+        - {x: -7.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 8.5, y: 4}
+        - {x: 8.5, y: 13}
+        - {x: 6.5, y: 18}
+    - name: dude_sprites_45
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 192
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 16}
+        - {x: -8.5, y: 3}
+        - {x: -5.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 9.5, y: 2}
+        - {x: 9.5, y: 8}
+        - {x: 8.5, y: 16}
+        - {x: 7.5, y: 18}
+        - {x: -4.5, y: 18}
+    - name: dude_sprites_46
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 192
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 17}
+        - {x: -9.5, y: 0}
+        - {x: 7.5, y: 0}
+        - {x: 10.5, y: 5}
+        - {x: 10.5, y: 11}
+        - {x: 4.5, y: 17}
+    - name: dude_sprites_47
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 192
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 17}
+        - {x: -5.5, y: 17}
+        - {x: -9.5, y: 9}
+        - {x: -9.5, y: 3}
+        - {x: -8.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 14}
+        - {x: 4.5, y: 16}
+    - name: dude_sprites_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 17}
+        - {x: -8.5, y: 9}
+        - {x: -8.5, y: 3}
+        - {x: -7.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 23.5, y: 3}
+        - {x: 23.5, y: 13}
+        - {x: 19.5, y: 17}
+    - name: dude_sprites_49
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 160
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 17}
+        - {x: -7.5, y: 11}
+        - {x: -7.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 12.5, y: 1}
+        - {x: 12.5, y: 16}
+        - {x: 5.5, y: 17}
+    - name: dude_sprites_50
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 160
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 15}
+        - {x: 4.5, y: 17}
+        - {x: -5.5, y: 17}
+        - {x: -6.5, y: 14}
+        - {x: -7.5, y: 10}
+        - {x: -7.5, y: 1}
+        - {x: -6.5, y: 0}
+        - {x: 7.5, y: 0}
+        - {x: 9.5, y: 2}
+        - {x: 10.5, y: 7}
+    - name: dude_sprites_51
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 160
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 15}
+        - {x: 3.5, y: 17}
+        - {x: -6.5, y: 17}
+        - {x: -7.5, y: 14}
+        - {x: -8.5, y: 10}
+        - {x: -8.5, y: 1}
+        - {x: -7.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 8.5, y: 2}
+        - {x: 9.5, y: 7}
+    - name: dude_sprites_52
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 160
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 16}
+        - {x: -8.5, y: 15}
+        - {x: -8.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 8.5, y: 14}
+        - {x: 5.5, y: 16}
+    - name: dude_sprites_53
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 160
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 17}
+        - {x: -4.5, y: 17}
+        - {x: -8.5, y: 14}
+        - {x: -8.5, y: 2}
+        - {x: -7.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 8.5, y: 3}
+        - {x: 8.5, y: 12}
+    - name: dude_sprites_54
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 160
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 16}
+        - {x: -4.5, y: 16}
+        - {x: -8.5, y: 15}
+        - {x: -8.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 8.5, y: 3}
+        - {x: 8.5, y: 13}
+    - name: dude_sprites_55
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 160
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 16}
+        - {x: -8.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 9.5, y: 14}
+        - {x: 5.5, y: 16}
+    - name: dude_sprites_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 17}
+        - {x: -8.5, y: 12}
+        - {x: -8.5, y: 0}
+        - {x: 7.5, y: 0}
+        - {x: 8.5, y: 1}
+        - {x: 8.5, y: 12}
+        - {x: 2.5, y: 17}
+    - name: dude_sprites_57
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 128
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 16}
+        - {x: -8.5, y: 13}
+        - {x: -8.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 7.5, y: 2}
+        - {x: 7.5, y: 15}
+        - {x: 4.5, y: 16}
+    - name: dude_sprites_58
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 128
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 12}
+        - {x: 2.5, y: 17}
+        - {x: -6.5, y: 17}
+        - {x: -8.5, y: 12}
+        - {x: -8.5, y: 1}
+        - {x: -7.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 8.5, y: 3}
+    - name: dude_sprites_59
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 128
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 16}
+        - {x: -7.5, y: 16}
+        - {x: -9.5, y: 15}
+        - {x: -9.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 9.5, y: 7}
+        - {x: 7.5, y: 12}
+    - name: dude_sprites_60
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 128
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 16}
+        - {x: -9.5, y: 16}
+        - {x: -9.5, y: 0}
+        - {x: 7.5, y: 0}
+        - {x: 7.5, y: 6}
+        - {x: 4.5, y: 14}
+    - name: dude_sprites_61
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 128
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 16}
+        - {x: -8.5, y: 16}
+        - {x: -8.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 8.5, y: 3}
+        - {x: 8.5, y: 12}
+    - name: dude_sprites_62
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 128
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 16}
+        - {x: -8.5, y: 15}
+        - {x: -8.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 8.5, y: 1}
+        - {x: 8.5, y: 11}
+        - {x: 5.5, y: 16}
+    - name: dude_sprites_63
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 128
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 16}
+        - {x: -7.5, y: 16}
+        - {x: -8.5, y: 14}
+        - {x: -8.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 9.5, y: 13}
+    - name: dude_sprites_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 16}
+        - {x: -4.5, y: 16}
+        - {x: -8.5, y: 13}
+        - {x: -8.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 9.5, y: 3}
+        - {x: 9.5, y: 13}
+    - name: dude_sprites_65
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 96
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 17}
+        - {x: -8.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 9.5, y: 10}
+        - {x: 9.5, y: 17}
+    - name: dude_sprites_66
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 96
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 18}
+        - {x: -7.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 9.5, y: 12}
+        - {x: 9.5, y: 17}
+        - {x: 7.5, y: 18}
+    - name: dude_sprites_67
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 96
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 18}
+        - {x: -6.5, y: 18}
+        - {x: -8.5, y: 15}
+        - {x: -8.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 9.5, y: 10}
+        - {x: 9.5, y: 17}
+        - {x: 8.5, y: 17}
+    - name: dude_sprites_68
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 96
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 18}
+        - {x: -9.5, y: 10}
+        - {x: -9.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 9.5, y: 14}
+        - {x: 9.5, y: 18}
+    - name: dude_sprites_69
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 96
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 18}
+        - {x: -7.5, y: 16}
+        - {x: -8.5, y: 11}
+        - {x: -8.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 9.5, y: 14}
+        - {x: 9.5, y: 18}
+    - name: dude_sprites_70
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 96
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 18}
+        - {x: -6.5, y: 16}
+        - {x: -6.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 7.5, y: 14}
+        - {x: 5.5, y: 16}
+        - {x: -0.5, y: 18}
+    - name: dude_sprites_71
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 96
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 18}
+        - {x: -7.5, y: 17}
+        - {x: -7.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 9.5, y: 15}
+        - {x: 7.5, y: 17}
+        - {x: 0.5, y: 18}
+    - name: dude_sprites_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 17}
+        - {x: -8.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 6.5, y: 14}
+        - {x: 3.5, y: 17}
+    - name: dude_sprites_73
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 64
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 17}
+        - {x: -8.5, y: 16}
+        - {x: -8.5, y: 0}
+        - {x: 4.5, y: 0}
+        - {x: 4.5, y: 15}
+        - {x: -0.5, y: 17}
+    - name: dude_sprites_74
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 64
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 19}
+        - {x: -4.5, y: 18}
+        - {x: -8.5, y: 12}
+        - {x: -8.5, y: 0}
+        - {x: 21.5, y: 0}
+        - {x: 21.5, y: 18}
+        - {x: 20.5, y: 19}
+    - name: dude_sprites_75
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 64
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 19}
+        - {x: -3.5, y: 18}
+        - {x: -7.5, y: 5}
+        - {x: -7.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 14.5, y: 11}
+        - {x: 14.5, y: 16}
+        - {x: 12.5, y: 19}
+    - name: dude_sprites_76
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 64
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 18}
+        - {x: -5.5, y: 17}
+        - {x: -7.5, y: 16}
+        - {x: -7.5, y: 0}
+        - {x: 4.5, y: 0}
+        - {x: 9.5, y: 11}
+        - {x: 9.5, y: 18}
+    - name: dude_sprites_77
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 64
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 17}
+        - {x: -7.5, y: 16}
+        - {x: -7.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 9.5, y: 15}
+        - {x: 7.5, y: 17}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
